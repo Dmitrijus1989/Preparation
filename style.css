@@ -24,7 +24,7 @@ body, html{
 }
 .mainImageDiv {
   background-image: url(images/black-sports-bike.jpg);
-  height: 50%;
+  height: 60%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@ body, html{
 }
 .myInputs {
   margin: 1vh;
-  width: 25vh;
+  width: 23vh;
   max-width: 469px;
 }
 .myInputs3 {
@@ -50,7 +50,7 @@ body, html{
   max-width: 1000px;
 }
 .myInputs4 {
-  width: 52vh;
+  width: 48vh;
   max-width: 1000px;
 }
 footer {
